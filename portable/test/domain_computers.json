@@ -1,0 +1,143 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "DC"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dNSHostName": [
+            "DC.active.htb"
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "distinguishedName": [
+            "CN=DC,OU=Domain Controllers,DC=active,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2021-11-24 14:14:06.699289+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2021-11-24 14:14:03.267282+00:00"
+        ],
+        "localPolicyFlags": [
+            0
+        ],
+        "logonCount": [
+            105
+        ],
+        "msDFSR-ComputerReferenceBL": [
+            "CN=DC,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=active,DC=htb"
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            31
+        ],
+        "name": [
+            "DC"
+        ],
+        "objectCategory": [
+            "CN=Computer,CN=Schema,CN=Configuration,DC=active,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectGUID": [
+            "{0a09e2f3-f5fb-47e4-8863-dd72112b6ffd}"
+        ],
+        "objectSid": [
+            "S-1-5-21-405608879-3187717380-1996298813-1000"
+        ],
+        "operatingSystem": [
+            "Windows Server 2008 R2 Standard"
+        ],
+        "operatingSystemServicePack": [
+            "Service Pack 1"
+        ],
+        "operatingSystemVersion": [
+            "6.1 (7601)"
+        ],
+        "primaryGroupID": [
+            516
+        ],
+        "pwdLastSet": [
+            "2021-11-24 14:13:44.594051+00:00"
+        ],
+        "rIDSetReferences": [
+            "CN=RID Set,CN=DC,OU=Domain Controllers,DC=active,DC=htb"
+        ],
+        "sAMAccountName": [
+            "DC$"
+        ],
+        "sAMAccountType": [
+            805306369
+        ],
+        "serverReferenceBL": [
+            "CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=active,DC=htb"
+        ],
+        "servicePrincipalName": [
+            "ldap/DC.active.htb/ForestDnsZones.active.htb",
+            "ldap/DC.active.htb/DomainDnsZones.active.htb",
+            "TERMSRV/DC",
+            "TERMSRV/DC.active.htb",
+            "Dfsr-12F9A27C-BF97-4787-9364-D31B6C55EB04/DC.active.htb",
+            "DNS/DC.active.htb",
+            "GC/DC.active.htb/active.htb",
+            "RestrictedKrbHost/DC.active.htb",
+            "RestrictedKrbHost/DC",
+            "HOST/DC/ACTIVE",
+            "HOST/DC.active.htb/ACTIVE",
+            "HOST/DC",
+            "HOST/DC.active.htb",
+            "HOST/DC.active.htb/active.htb",
+            "E3514235-4B06-11D1-AB04-00C04FC2DCD2/f4953ea5-0f30-4041-b4dd-1a00693a8510/active.htb",
+            "ldap/DC/ACTIVE",
+            "ldap/f4953ea5-0f30-4041-b4dd-1a00693a8510._msdcs.active.htb",
+            "ldap/DC.active.htb/ACTIVE",
+            "ldap/DC",
+            "ldap/DC.active.htb",
+            "ldap/DC.active.htb/active.htb"
+        ],
+        "uSNChanged": [
+            98334
+        ],
+        "uSNCreated": [
+            12293
+        ],
+        "userAccountControl": [
+            532480
+        ],
+        "whenChanged": [
+            "2021-11-24 14:14:03+00:00"
+        ],
+        "whenCreated": [
+            "2018-07-18 18:50:35+00:00"
+        ]
+    },
+    "dn": "CN=DC,OU=Domain Controllers,DC=active,DC=htb"
+}]

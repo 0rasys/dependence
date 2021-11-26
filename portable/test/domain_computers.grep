@@ -1,0 +1,2 @@
+cn	sAMAccountName	dNSHostName	operatingSystem	operatingSystemServicePack	operatingSystemVersion	lastLogon	userAccountControl	whenCreated	objectSid	description
+DC	DC$	DC.active.htb	Windows Server 2008 R2 Standard	Service Pack 1	6.1 (7601)	11/24/21 14:14:06	SERVER_TRUST_ACCOUNT, TRUSTED_FOR_DELEGATION	07/18/18 18:50:35	S-1-5-21-405608879-3187717380-1996298813-1000	

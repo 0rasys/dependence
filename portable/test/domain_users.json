@@ -1,0 +1,414 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "SVC_TGS"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2018-07-18 20:14:38+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "SVC_TGS"
+        ],
+        "distinguishedName": [
+            "CN=SVC_TGS,CN=Users,DC=active,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2018-07-21 14:01:30.320276+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2021-11-24 14:16:59.890793+00:00"
+        ],
+        "logonCount": [
+            6
+        ],
+        "name": [
+            "SVC_TGS"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=active,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{8c9d3235-1d0a-4db1-99ee-3f783d1a9bd6}"
+        ],
+        "objectSid": [
+            "S-1-5-21-405608879-3187717380-1996298813-1103"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2018-07-18 20:14:38.402765+00:00"
+        ],
+        "sAMAccountName": [
+            "SVC_TGS"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            98343
+        ],
+        "uSNCreated": [
+            20508
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "SVC_TGS@active.htb"
+        ],
+        "whenChanged": [
+            "2021-11-24 14:16:59+00:00"
+        ],
+        "whenCreated": [
+            "2018-07-18 20:14:38+00:00"
+        ]
+    },
+    "dn": "CN=SVC_TGS,CN=Users,DC=active,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "krbtgt"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2018-07-18 19:05:45+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "description": [
+            "Key Distribution Center Service Account"
+        ],
+        "distinguishedName": [
+            "CN=krbtgt,CN=Users,DC=active,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Denied RODC Password Replication Group,CN=Users,DC=active,DC=htb"
+        ],
+        "name": [
+            "krbtgt"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=active,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{43d7a1e7-a5a6-49ab-82d0-e24e7472f88d}"
+        ],
+        "objectSid": [
+            "S-1-5-21-405608879-3187717380-1996298813-502"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2018-07-18 18:50:36.972031+00:00"
+        ],
+        "sAMAccountName": [
+            "krbtgt"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "kadmin/changepw"
+        ],
+        "showInAdvancedViewOnly": [
+            true
+        ],
+        "uSNChanged": [
+            12739
+        ],
+        "uSNCreated": [
+            12324
+        ],
+        "userAccountControl": [
+            514
+        ],
+        "whenChanged": [
+            "2018-07-18 19:05:45+00:00"
+        ],
+        "whenCreated": [
+            "2018-07-18 18:50:35+00:00"
+        ]
+    },
+    "dn": "CN=krbtgt,CN=Users,DC=active,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Guest"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "description": [
+            "Built-in account for guest access to the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Guest,CN=Users,DC=active,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Guests,CN=Builtin,DC=active,DC=htb"
+        ],
+        "name": [
+            "Guest"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=active,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{128734a9-ff0e-4f5c-8c95-a14738a11801}"
+        ],
+        "objectSid": [
+            "S-1-5-21-405608879-3187717380-1996298813-501"
+        ],
+        "primaryGroupID": [
+            514
+        ],
+        "pwdLastSet": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "sAMAccountName": [
+            "Guest"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            8197
+        ],
+        "uSNCreated": [
+            8197
+        ],
+        "userAccountControl": [
+            66082
+        ],
+        "whenChanged": [
+            "2018-07-18 18:49:11+00:00"
+        ],
+        "whenCreated": [
+            "2018-07-18 18:49:11+00:00"
+        ]
+    },
+    "dn": "CN=Guest,CN=Users,DC=active,DC=htb"
+},{
+    "attributes": {
+        "accountExpires": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "2021-01-22 08:42:21.333538+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Administrator"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2018-07-18 20:34:35+00:00",
+            "2018-07-18 20:14:54+00:00",
+            "2018-07-18 19:05:45+00:00",
+            "2018-07-18 19:05:45+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "description": [
+            "Built-in account for administering the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Administrator,CN=Users,DC=active,DC=htb"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2021-01-22 08:42:30.615553+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2021-01-21 16:07:03.723782+00:00"
+        ],
+        "logonCount": [
+            35
+        ],
+        "logonHours": [
+            {
+                "encoded": "////////////////////////////",
+                "encoding": "base64"
+            }
+        ],
+        "memberOf": [
+            "CN=Group Policy Creator Owners,CN=Users,DC=active,DC=htb",
+            "CN=Domain Admins,CN=Users,DC=active,DC=htb",
+            "CN=Enterprise Admins,CN=Users,DC=active,DC=htb",
+            "CN=Schema Admins,CN=Users,DC=active,DC=htb",
+            "CN=Administrators,CN=Builtin,DC=active,DC=htb"
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            0
+        ],
+        "name": [
+            "Administrator"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=active,DC=htb"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{25ca718e-7312-467f-955a-4c4f10963c1e}"
+        ],
+        "objectSid": [
+            "S-1-5-21-405608879-3187717380-1996298813-500"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2018-07-18 19:06:40.351723+00:00"
+        ],
+        "sAMAccountName": [
+            "Administrator"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "active/CIFS:445"
+        ],
+        "uSNChanged": [
+            90145
+        ],
+        "uSNCreated": [
+            8196
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "whenChanged": [
+            "2021-01-21 16:07:03+00:00"
+        ],
+        "whenCreated": [
+            "2018-07-18 18:49:11+00:00"
+        ]
+    },
+    "dn": "CN=Administrator,CN=Users,DC=active,DC=htb"
+}]
